@@ -1,5 +1,5 @@
 ScrollTrigger.create({
-	start: "top -80",
+	start: "top -100",
 	end: 99999,
 	toggleClass: {
 		className: "is-sticky",
