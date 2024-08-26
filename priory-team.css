@@ -66,6 +66,6 @@ html {
     height: auto;
 }
 
-.service-sub-post .service-sidbar-icon:hover {
+.service-sub-post:hover .service-sidbar-icon {
     filter: grayscale(0);
 }
