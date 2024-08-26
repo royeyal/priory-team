@@ -65,3 +65,7 @@ html {
     width: auto;
     height: auto;
 }
+
+.service-sub-post .service-sidbar-icon:hover {
+    filter: grayscale(0);
+}
